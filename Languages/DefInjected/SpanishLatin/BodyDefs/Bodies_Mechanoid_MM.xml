@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MechanicalCrawler.label>rastreador</MechanicalCrawler.label>
+	<MechanicalCrawler.corePart.parts.1.parts.2.customLabel>sensor de visión izquierdo</MechanicalCrawler.corePart.parts.1.parts.2.customLabel>
+	<MechanicalCrawler.corePart.parts.1.parts.3.customLabel>sensor de visión derecho</MechanicalCrawler.corePart.parts.1.parts.3.customLabel>
+	<MechanicalCrawler.corePart.parts.1.parts.4.customLabel>sensor auditivo izquierdo</MechanicalCrawler.corePart.parts.1.parts.4.customLabel>
+	<MechanicalCrawler.corePart.parts.1.parts.5.customLabel>sensor auditivo derecho</MechanicalCrawler.corePart.parts.1.parts.5.customLabel>
+	<MechanicalCrawler.corePart.parts.2.customLabel>pierna izquierda frontal</MechanicalCrawler.corePart.parts.2.customLabel>
+	<MechanicalCrawler.corePart.parts.3.customLabel>pierna derecha frontal</MechanicalCrawler.corePart.parts.3.customLabel>
+	<MechanicalCrawler.corePart.parts.4.customLabel>pierna izquierda media</MechanicalCrawler.corePart.parts.4.customLabel>
+	<MechanicalCrawler.corePart.parts.5.customLabel>pierna derecha media</MechanicalCrawler.corePart.parts.5.customLabel>
+	<MechanicalCrawler.corePart.parts.6.customLabel>pierna izquierda trasera</MechanicalCrawler.corePart.parts.6.customLabel>
+	<MechanicalCrawler.corePart.parts.7.customLabel>pierna derecha trasera</MechanicalCrawler.corePart.parts.7.customLabel>
+
+	<MechanicalSkullywag.label>asimilador</MechanicalSkullywag.label>
+	<MechanicalSkullywag.corePart.parts.1.parts.0.customLabel>rueda izquierda</MechanicalSkullywag.corePart.parts.1.parts.0.customLabel>
+	<MechanicalSkullywag.corePart.parts.1.parts.1.customLabel>rueda derecha</MechanicalSkullywag.corePart.parts.1.parts.1.customLabel>
+	<MechanicalSkullywag.corePart.parts.1.parts.2.customLabel>rueda trasera</MechanicalSkullywag.corePart.parts.1.parts.2.customLabel>
+
+	<AssimilatedHuman.label>humano asimilado</AssimilatedHuman.label>
+	<AssimilatedHuman.corePart.parts.0.customLabel>clavícula izquierda</AssimilatedHuman.corePart.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.1.customLabel>clavícula derecha</AssimilatedHuman.corePart.parts.1.customLabel>
+	<AssimilatedHuman.corePart.parts.6.parts.0.parts.1.customLabel>sensor de visión izquierdo</AssimilatedHuman.corePart.parts.6.parts.0.parts.1.customLabel>
+	<AssimilatedHuman.corePart.parts.6.parts.0.parts.2.customLabel>sensor de visión derecho</AssimilatedHuman.corePart.parts.6.parts.0.parts.2.customLabel>
+	<AssimilatedHuman.corePart.parts.6.parts.0.parts.3.customLabel>sensor auditivo izquierdo</AssimilatedHuman.corePart.parts.6.parts.0.parts.3.customLabel>
+	<AssimilatedHuman.corePart.parts.6.parts.0.parts.4.customLabel>sensor auditivo derecho</AssimilatedHuman.corePart.parts.6.parts.0.parts.4.customLabel>
+	<AssimilatedHuman.corePart.parts.7.customLabel>hombro izquierdo</AssimilatedHuman.corePart.parts.7.customLabel>
+	<AssimilatedHuman.corePart.parts.7.parts.0.customLabel>brazo izquierdo</AssimilatedHuman.corePart.parts.7.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.7.parts.0.parts.0.customLabel>mano izquierda</AssimilatedHuman.corePart.parts.7.parts.0.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.0.customLabel>meñique izquierdo</AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.1.customLabel>dedo medio izquierdo</AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.1.customLabel>
+	<AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.2.customLabel>dedo índice izquierdo</AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.2.customLabel>
+	<AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.3.customLabel>pulgar izquierdo</AssimilatedHuman.corePart.parts.7.parts.0.parts.0.parts.3.customLabel>
+	<AssimilatedHuman.corePart.parts.8.customLabel>hombro derecho</AssimilatedHuman.corePart.parts.8.customLabel>
+	<AssimilatedHuman.corePart.parts.8.parts.0.customLabel>brazo derecho</AssimilatedHuman.corePart.parts.8.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.8.parts.0.parts.0.customLabel>mano derecha</AssimilatedHuman.corePart.parts.8.parts.0.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>meñique derecho</AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>dedo medio derecho</AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>
+	<AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>dedo índice derecho</AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>
+	<AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>pulgar derecho</AssimilatedHuman.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>
+	<AssimilatedHuman.corePart.parts.9.customLabel>pierna izquierda</AssimilatedHuman.corePart.parts.9.customLabel>
+	<AssimilatedHuman.corePart.parts.9.parts.0.customLabel>pie izquierdo</AssimilatedHuman.corePart.parts.9.parts.0.customLabel>
+	<AssimilatedHuman.corePart.parts.10.customLabel>pierna derecha</AssimilatedHuman.corePart.parts.10.customLabel>
+	<AssimilatedHuman.corePart.parts.10.parts.0.customLabel>pie derecho</AssimilatedHuman.corePart.parts.10.parts.0.customLabel>
+
+	<MechanicalScoutbot.label>analizador</MechanicalScoutbot.label>
+	<MechanicalScoutbot.corePart.parts.1.parts.0.parts.2.customLabelsensor de visión izquierdo</MechanicalScoutbot.corePart.parts.1.parts.0.parts.2.customLabel>
+
+	<MechanicalAssaulter.label>asaltante</MechanicalAssaulter.label>
+	<MechanicalAssaulter.corePart.parts.0.parts.1.customLabel>cañón izquierdo</MechanicalAssaulter.corePart.parts.0.parts.1.customLabel>
+	<MechanicalAssaulter.corePart.parts.0.parts.2.customLabel>cañón izquierdo frontal</MechanicalAssaulter.corePart.parts.0.parts.2.customLabel>
+	<MechanicalAssaulter.corePart.parts.0.parts.3.customLabel>cañón derecho trasero</MechanicalAssaulter.corePart.parts.0.parts.3.customLabel>
+	<MechanicalAssaulter.corePart.parts.0.parts.4.customLabel>cañón derecho frontal</MechanicalAssaulter.corePart.parts.0.parts.4.customLabel>
+	<MechanicalAssaulter.corePart.parts.1.parts.0.parts.1.customLabel>sensor de visión izquierdo</MechanicalAssaulter.corePart.parts.1.parts.0.parts.1.customLabel>
+	<MechanicalAssaulter.corePart.parts.1.parts.0.parts.2.customLabel>sensor de visión derecho</MechanicalAssaulter.corePart.parts.1.parts.0.parts.2.customLabel>
+	<MechanicalAssaulter.corePart.parts.1.parts.0.parts.3.customLabel>sensor auditivo izquierdo</MechanicalAssaulter.corePart.parts.1.parts.0.parts.3.customLabel>
+	<MechanicalAssaulter.corePart.parts.1.parts.0.parts.4.customLabel>sensor auditivo derecho</MechanicalAssaulter.corePart.parts.1.parts.0.parts.4.customLabel>
+	<MechanicalAssaulter.corePart.parts.2.customLabel>hombro izquierdo</MechanicalAssaulter.corePart.parts.2.customLabel>
+	<MechanicalAssaulter.corePart.parts.2.parts.0.customLabel>brazo izquierdo</MechanicalAssaulter.corePart.parts.2.parts.0.customLabel>
+	<MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.customLabel>mano izquierda</MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.customLabel>
+	<MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>meñique izquierdo</MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+	<MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>dedo medio izquierdo</MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+	<MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>dedo índice izquierdo</MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+	<MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>pulgar derecho</MechanicalAssaulter.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+	<MechanicalAssaulter.corePart.parts.3.customLabel>hombro derecho</MechanicalAssaulter.corePart.parts.3.customLabel>
+	<MechanicalAssaulter.corePart.parts.3.parts.0.customLabel>brazo izquierdo</MechanicalAssaulter.corePart.parts.3.parts.0.customLabel>
+	<MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.customLabel>brazo derecho</MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.customLabel>
+	<MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>meñique derecho</MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>
+	<MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>dedo medio derecho</MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>
+	<MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>dedo índice derecho</MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>
+	<MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>pulgar derecho</MechanicalAssaulter.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>
+	<MechanicalAssaulter.corePart.parts.4.customLabel>pierna izquierda</MechanicalAssaulter.corePart.parts.4.customLabel>
+	<MechanicalAssaulter.corePart.parts.4.parts.0.customLabel>pie izquierdo</MechanicalAssaulter.corePart.parts.4.parts.0.customLabel>
+	<MechanicalAssaulter.corePart.parts.5.customLabel>pierna derecha</MechanicalAssaulter.corePart.parts.5.customLabel>
+	<MechanicalAssaulter.corePart.parts.5.parts.0.customLabel>pie derecho</MechanicalAssaulter.corePart.parts.5.parts.0.customLabel>
+
+
+  <!-- MechanicalCephalothorax
+			LargeMechanicalAbdomen
+				MechanicalTentacle (x6)
+					MechanicalTentacleSection
+						Claw
+							MechanicalFinger
+							MechanicalFinger
+							MechanicalFinger
+			MechanicalHead
+				EyeSensor
+				ArtificialBrain
+			FrontLeftMechanicalPalp
+			FrontRightMechanicalPalp -->
+
+	<MechanicalCarrier.label>portador</MechanicalCarrier.label>
+	<MechanicalCarrier.corePart.parts.0.parts.1.customLabel>médula frontal izquierda</MechanicalCarrier.corePart.parts.0.parts.1.customLabel>
+	<MechanicalCarrier.corePart.parts.0.parts.2.customLabel>médula frontal derecha</MechanicalCarrier.corePart.parts.0.parts.2.customLabel>
+
+	<MechanicalMammoth.label>mamut</MechanicalMammoth.label>
+	<MechanicalMammoth.corePart.parts.4.parts.6.customLabel>sensor de visión izquierdo</MechanicalMammoth.corePart.parts.4.parts.6.customLabel>
+	<MechanicalMammoth.corePart.parts.4.parts.7.customLabel>sensor de visión derecho</MechanicalMammoth.corePart.parts.4.parts.7.customLabel>
+	<MechanicalMammoth.corePart.parts.4.parts.8.customLabel>sensor auditivo izquierdo</MechanicalMammoth.corePart.parts.4.parts.8.customLabel>
+	<MechanicalMammoth.corePart.parts.4.parts.9.customLabel>sensor auditivo derecho</MechanicalMammoth.corePart.parts.4.parts.9.customLabel>
+	<MechanicalMammoth.corePart.parts.5.customLabel>pierna izquierda frontal</MechanicalMammoth.corePart.parts.5.customLabel>
+	<MechanicalMammoth.corePart.parts.5.parts.0.customLabel>casco frontal izquierdo</MechanicalMammoth.corePart.parts.5.parts.0.customLabel>
+	<MechanicalMammoth.corePart.parts.6.customLabel>pierna derecha frontal</MechanicalMammoth.corePart.parts.6.customLabel>
+	<MechanicalMammoth.corePart.parts.6.parts.0.customLabel>casco frontal derecho</MechanicalMammoth.corePart.parts.6.parts.0.customLabel>
+	<MechanicalMammoth.corePart.parts.7.customLabel>pierna izquierda trasera</MechanicalMammoth.corePart.parts.7.customLabel>
+	<MechanicalMammoth.corePart.parts.7.parts.0.customLabel>casco trasero izquierdo</MechanicalMammoth.corePart.parts.7.parts.0.customLabel>
+	<MechanicalMammoth.corePart.parts.8.customLabel>casco trasero derecho</MechanicalMammoth.corePart.parts.8.customLabel>
+	<MechanicalMammoth.corePart.parts.8.parts.0.customLabel>pierna derecha traseraf</MechanicalMammoth.corePart.parts.8.parts.0.customLabel>
+
+  <!-- MechanicalBodySmall
+			LeftTubing
+			RightTubing
+			FuelContainer
+			MechanicalHead
+				LeftSightSensor
+				RightSightSensor
+				ArtificialBrain
+				Igniter -->
+
+	<MechanicalFlamebot.label>pirómano</MechanicalFlamebot.label>
+	<MechanicalFlamebot.corePart.parts.0.customLabel>tubo izquierdo</MechanicalFlamebot.corePart.parts.0.customLabel>
+	<MechanicalFlamebot.corePart.parts.1.customLabel>tubo derecho</MechanicalFlamebot.corePart.parts.1.customLabel>
+	<MechanicalFlamebot.corePart.parts.7.parts.0.customLabel>sensor de visión izquierdo</MechanicalFlamebot.corePart.parts.7.parts.0.customLabel>
+	<MechanicalFlamebot.corePart.parts.7.parts.1.customLabel>sensor de visión derecho</MechanicalFlamebot.corePart.parts.7.parts.1.customLabel>
+
+  <!-- MechanicalBodySmall
+			LeftMechanicalLeg
+			RightMechanicalLeg
+			MechanicalHead
+				ArtificialBrain
+			LeftExplosiveTank
+			RightExplosiveTank -->
+
+	<MechanicalBoombot.label>explosionador</MechanicalBoombot.label>
+	<MechanicalBoombot.corePart.parts.1.parts.0.customLabel>sensor de visión izquierdo</MechanicalBoombot.corePart.parts.1.parts.0.customLabel>
+	<MechanicalBoombot.corePart.parts.1.parts.1.customLabel>sensor de visión derecho</MechanicalBoombot.corePart.parts.1.parts.1.customLabel>
+	<MechanicalBoombot.corePart.parts.2.customLabel>tanque de explosivos izquierdo</MechanicalBoombot.corePart.parts.2.customLabel>
+	<MechanicalBoombot.corePart.parts.3.customLabel>tanque de explosivos derecho</MechanicalBoombot.corePart.parts.3.customLabel>
+
+</LanguageData>
