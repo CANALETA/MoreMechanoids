@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Gun_ChargeBlasterInternal.label>rifle de cargas interno</Gun_ChargeBlasterInternal.label>
+	<Gun_ChargeBlasterInternal.description>Rifle que dispara proyectiles de energía para fuego de supresión en área. Construido por los mecanoides.</Gun_ChargeBlasterInternal.description>
+
+	<Bullet_FlameThrower.label>Llama</Bullet_FlameThrower.label>
+
+	<MechanoidFlameThrower.label>lanzallamas</MechanoidFlameThrower.label>
+	<MechanoidFlameThrower.description>Un lanzallamas integrado. Construido por los mecanoides.</MechanoidFlameThrower.description>
+
+	<BoomBoom.label>boom boom</BoomBoom.label>
+
+	<MechanoidBoom.label>explosivo mecanoide</MechanoidBoom.label>
+	<MechanoidBoom.description>¡Esta parte EXPLOTA!</MechanoidBoom.description>
+	<MechanoidBoom.verbs.0.label>explotar</MechanoidBoom.verbs.0.label>
+
+</LanguageData>

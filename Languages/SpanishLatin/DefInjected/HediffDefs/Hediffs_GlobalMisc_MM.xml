@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Paralyze.label>paralización</Paralyze.label>
+	<Paralyze.stages.0.label>mareado</Paralyze.stages.0.label>
+	<Paralyze.stages.1.label>parcial</Paralyze.stages.1.label>
+	<Paralyze.stages.2.label>severa</Paralyze.stages.2.label>
+	<Paralyze.stages.3.label>desvanecido</Paralyze.stages.3.label>
+
+</LanguageData>

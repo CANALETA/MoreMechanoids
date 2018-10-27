@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<PlasmaCutter.label>cortador de plasma</PlasmaCutter.label>
+	<FrontLegs.label>pierna frontal</FrontLegs.label>
+
+	<FrontParalyzeComponent.label>paralizador</FrontParalyzeComponent.label>
+	<WheelsEnclosure.label>caja de cambios</WheelsEnclosure.label>
+	<MechanicalCoreSkullywag.label>núcleo</MechanicalCoreSkullywag.label>
+
+	<MechanicalCoreScoutbot.label>núcleo</MechanicalCoreScoutbot.label>
+
+	<CoveredByShield.label>escudo</CoveredByShield.label>
+	<GunProtrusion.label>cañón</GunProtrusion.label>
+
+	<MeleeTentacles.label>tentáculo</MeleeTentacles.label>
+
+	<Tusk.label>colmillo</Tusk.label>
+
+	<Igniter.label>encendedor</Igniter.label>
+	<FuelContainer.label>contenedor de combustible</FuelContainer.label>
+
+</LanguageData>
