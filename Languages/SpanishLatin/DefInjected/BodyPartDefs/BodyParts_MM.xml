@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MechanicalShell.label>casco</MechanicalShell.label>
+	<PlasmaCutter.label>cortador de plasma</PlasmaCutter.label>
+	<MechanicalAntenna.label>antena</MechanicalAntenna.label>
+	<!--[Duplicated] <InfraredSensor.label>sensor infrarojo</InfraredSensor.label>-->
+	<MechanicalCore.label>núcleo</MechanicalCore.label>
+	<MechanicalCrawlerLeg.label>pierna mecánica</MechanicalCrawlerLeg.label>
+	<MechanicalGearBox.label>caja de cambios</MechanicalGearBox.label>
+
+	<FrontParalyzeComponent.label>paralizador</FrontParalyzeComponent.label>
+	<WheelsEnclosure.label>caja de cambios</WheelsEnclosure.label>
+	<Wheel.label>rueda</Wheel.label>
+	<MechanicalCoreSkullywag.label>núcleo</MechanicalCoreSkullywag.label>
+	<CoreProcessor.label>procesador central</CoreProcessor.label>
+	<InfraredSensor.label>sensor infrarojo</InfraredSensor.label>
+
+	<MechanicalSkull.label>cráneo de acero</MechanicalSkull.label>
+
+	<MechanicalCoreScoutbot.label>núcleo</MechanicalCoreScoutbot.label>
+	<MechanicalHoverComponent.label>flotador</MechanicalHoverComponent.label>
+	<MechanicalBackupHoverComponent.label>flotador de repuesto</MechanicalBackupHoverComponent.label>
+	<FrontGun.label>arma frontal</FrontGun.label>
+
+	<GunProtrusion.label>cañón</GunProtrusion.label>
+	<FrontShield.label>escudo frontal</FrontShield.label>
+	<ShieldWindow.label>ventanilla de escudo</ShieldWindow.label>
+
+	<MechanicalCephalothorax.label>cefalotórax</MechanicalCephalothorax.label>
+	<LargeMechanicalAbdomen.label>abdomen grande</LargeMechanicalAbdomen.label>
+	<MechanicalTentacle.label>tentáculo</MechanicalTentacle.label>
+	<MechanicalTentacleSection.label>Sección de tentáculo</MechanicalTentacleSection.label>
+	<Claw.label>garra</Claw.label>
+	<ClawGrip.label>soporte de garra</ClawGrip.label>
+	<!--[Core] <SightSensor.label>sensor de visión</SightSensor.label>-->
+	<MechanicalPalp.label>médula mecánica</MechanicalPalp.label>
+
+	<MechanicalBody.label>cuerpo mecánico</MechanicalBody.label>
+	<ArmorPlating.label>armadura blindada</ArmorPlating.label>
+	<InternalMetalPlate.label>placa de metal interna</InternalMetalPlate.label>
+	<MetalTusk.label>colmillo de metal</MetalTusk.label>
+	<MechanicalMammothLeg.label>pierna mecánica</MechanicalMammothLeg.label>
+	<MechanicalMammothHoof.label>casco mecánico</MechanicalMammothHoof.label>
+
+	<MechanicalBodySmall.label>cuerpo</MechanicalBodySmall.label>
+	<FlamebotTubing.label>tubo</FlamebotTubing.label>
+	<FuelContainer.label>contenedor de combustible</FuelContainer.label>
+	<Igniter.label>encendedor</Igniter.label>
+	<SmallWheel.label>rueda pequeña</SmallWheel.label>
+
+	<ExplosiveTank.label>tanque de explosivo</ExplosiveTank.label>
+	<RollComponent.label>componente rodante</RollComponent.label>
+
+</LanguageData>
